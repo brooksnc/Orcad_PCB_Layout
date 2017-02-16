@@ -1,0 +1,57 @@
+(ExpressProject "activebuffer_v2"
+  (ProjectVersion "19981106")
+  (ProjectType "PCB")
+  (Folder "Design Resources"
+    (Folder "Library")
+    (NoModify)
+    (File ".\activebuffer_v2.dsn"
+      (Type "Schematic Design"))
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x"))
+  (Folder "Outputs")
+  (Folder "Referenced Projects")
+  (PartMRUSelector
+    (TSM_isodcdc_S
+      (FullPartName "TSM_isodcdc_S.Normal")
+      (LibraryName "C:\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY1.OLB")
+      (DeviceIndex "0"))
+    (C
+      (FullPartName "C.Normal")
+      (LibraryName "C:\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    (CAPACITOR
+      (FullPartName "CAPACITOR.Normal")
+      (LibraryName "C:\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    (Gan_sys_GS61004B
+      (FullPartName "Gan_sys_GS61004B.Normal")
+      (LibraryName
+         "C:\USERS\PILAWA_GROUP\DROPBOX\PILAWA-GROUP\CADENCE\LIBRARIES\GAN.OLB")
+      (DeviceIndex "0"))
+    (Si827x
+      (FullPartName "Si827x.Normal")
+      (LibraryName "C:\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY1.OLB")
+      (DeviceIndex "0")))
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Path "Design Resources"
+         "C:\Users\pilawa_group\Documents\Cadence\Active Buffer\v2\activebuffer_v2.dsn")
+      (Select "Design Resources"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 2 3 -1 -1 -8 -31 0 200 0 651"))
+      (Tab 0))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 50 2225 68 758")
+        (Scroll "2384 126")
+        (Zoom "332")
+        (Occurrence "/"))
+      (Path
+         "C:\USERS\PILAWA_GROUP\DOCUMENTS\CADENCE\ACTIVE BUFFER\V2\ACTIVEBUFFER_V2.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "PAGE1"))))
